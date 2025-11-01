@@ -97,5 +97,7 @@ if __name__ == "__main__":
     print("✓ File I/O Operations Successful")
 ```
 ## OUTPUT
+<img width="1337" height="558" alt="image" src="https://github.com/user-attachments/assets/cd48e3e0-052b-4d76-9ae3-cfb13866f4d2" />
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
